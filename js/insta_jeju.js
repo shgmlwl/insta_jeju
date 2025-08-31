@@ -7,7 +7,6 @@
     "image/jeju/jeju_04.jpeg",
     "image/jeju/jeju_05.jpeg",
     "image/jeju/jeju_06.jpeg",
-    "image/jeju/jeju_07.jpeg",
     "image/jeju/jeju_08.jpeg",
     "image/jeju/jeju_09.jpeg",
     "image/jeju/jeju_10.jpeg",
@@ -20,8 +19,6 @@
     "image/jeju/jeju_18.jpeg",
     "image/jeju/jeju_19.jpeg",
     "image/jeju/jeju_20.jpeg",
-    "image/jeju/jeju_21.jpeg",
-    "image/jeju/jeju_22.jpeg",
     "image/jeju/jeju_23.jpeg",
     "image/jeju/jeju_24.jpeg",
     "image/jeju/jeju_25.jpeg",
@@ -224,5 +221,5 @@
 const close_icon = document.querySelector("#close_icon");
 console.log(close_icon);
 close_icon.addEventListener("click", () => {
-  location.href = "/main.html";
+  location.href = "https://shgmlwl.github.io/insta_main_page/";
 });
